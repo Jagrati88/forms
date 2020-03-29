@@ -11,3 +11,62 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.form1{
+  width: 500px;
+  height: 500px;
+  margin:auto;
+  border: black;
+  border-style:solid;
+}
+
+.name{
+  width:800%;
+  padding: 22px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+input[type=text] {
+  width: 10%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background-color: lightgrey;
+}
+
+.hobby{
+  width:800%;
+  padding: 22px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.sub{
+  width:40%;
+  padding: 12px 200px;
+  margin: 8px 20;
+  background-color: green;
+  
+}
+
+.align{
+  width:100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.drop{
+  width:10%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background-color:lightgrey;
+}
+
+.center{
+  margin:auto;
+  width:50%;
+  height: 50%;
+}
